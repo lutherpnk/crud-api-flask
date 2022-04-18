@@ -1,4 +1,4 @@
-# A Simple CRUD API
+# CRUD API - 
 
 Uma simples API que permite o usuário criar, ler, atualizar e deletar um usuário, além de manter essas informações salvas em um banco de dados.
 
